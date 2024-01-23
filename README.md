@@ -2,7 +2,7 @@
     <img width="50%" src="docs/assets/logo.png"> 
 </p>
 
-<div style="text-align: center">
+<div align="center" style="text-align: center">
 
 [![Maven Central](https://img.shields.io/maven-central/v/your-group-id/your-artifact-id?style=for-the-badge)](https://search.maven.org/artifact/your-group-id/your-artifact-id)
 [![Code Coverage](https://img.shields.io/codecov/c/github/AmmoniumStudios/java-project-template?style=for-the-badge)](https://codecov.io/gh/AmmoniumStudios/java-project-template)
