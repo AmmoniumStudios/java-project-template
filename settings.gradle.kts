@@ -7,3 +7,4 @@ pluginManagement {
 }
 
 rootProject.name = "java-project-template"
+include("example-api", "example")

@@ -32,4 +32,13 @@ public final class User {
     public String getEmailAddress() {
         return emailAddress;
     }
+
+    @Override
+    public String toString() {
+        return "User{" +
+            "uniqueId=" + uniqueId +
+            ", username='" + username + '\'' +
+            ", emailAddress='" + emailAddress + '\'' +
+            '}';
+    }
 }
